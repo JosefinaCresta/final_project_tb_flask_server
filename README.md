@@ -1,6 +1,6 @@
 ## Flask API Server NanoPredicTorio
 
-Simple API de Flask con autenticación JWT, y gestión de base de datos con SqlAlchemy de _SQLite_ y productivización de modelos de machine learning de _Scikit-Learn_ capaces de realizar predicciones de la energía de nanoparticulas metálicas. Utilizada como backend de [NanoPredicTorio](https://nanopreditorio-cresta-app.herokuapp.com/)
+Simple API de Flask con autenticación JWT, y gestión de base de datos con SqlAlchemy de _SQLite_ y productivización de modelos de machine learning de _Scikit-Learn_ capaces de realizar predicciones de la energía de nanoparticulas metálicas. Utilizada como backend de [NanoPredicTorio](https://nanopredictorio.herokuapp.com)
 
 <br />
 
@@ -62,7 +62,7 @@ $ (Powershell) $env:FLASK_ENV = "development"
 $ flask run
 ```
 
-## Inicio rápido en `Docker`
+## Inicio rápido en Docker
 
 > Obtener el código
 
