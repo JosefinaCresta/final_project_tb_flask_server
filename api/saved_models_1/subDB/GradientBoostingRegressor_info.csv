@@ -1,0 +1,2 @@
+,model_name , hyper_parametros, best_score, R2,  MAE, MSE, RMSE, MAPE
+0,GradientBoostingRegressor(),"{'alpha': 0.9, 'learning_rate': 0.1, 'loss': 'squared_error', 'max_depth': 3, 'min_samples_split': 2, 'n_estimators': 500}",0.9936,0.9945,542.3746,1044424.0138,1021.9707,0.0431

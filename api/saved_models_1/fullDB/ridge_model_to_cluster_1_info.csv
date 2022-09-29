@@ -1,0 +1,2 @@
+,model,cluster, hyper_parametros, best_score, R2,  MAE, MSE, RMSE, MAPE, time
+25,Ridge,cluster_1,"{'alpha': 0.1, 'fit_intercept': True, 'max_iter': 100, 'random_state': 0, 'solver': 'auto'}",0.9889,0.9907,0.0014,0.0,0.0019,0.0004,0

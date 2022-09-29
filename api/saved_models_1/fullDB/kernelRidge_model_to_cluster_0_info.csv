@@ -1,0 +1,2 @@
+,model,cluster, hyper_parametros, best_score, R2,  MAE, MSE, RMSE, MAPE, time
+6,KernelRidge,cluster_0,"{'alpha': 0.1, 'degree': 3, 'gamma': 0.01, 'kernel': 'polynomial'}",0.9609,0.9627,0.0105,0.0003,0.0166,0.003,7

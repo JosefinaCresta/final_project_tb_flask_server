@@ -1,0 +1,2 @@
+,model,cluster, hyper_parametros, best_score, R2,  MAE, MSE, RMSE, MAPE, time
+32,KNeighborsRegressor,cluster_2,"{'algorithm': 'auto', 'leaf_size': 2, 'n_neighbors': 5}",0.9377,0.9668,0.008,0.0001,0.0121,0.0022,0
