@@ -62,15 +62,6 @@ $ (Powershell) $env:FLASK_ENV = "development"
 $ flask run
 ```
 
-## Inicio rápido en Docker
-
-> Obtener el código
-
-```bash
-$ git clone https://github.com/JosefinaCresta/api-server-flask.git
-$ cd api-server-flask
-```
-
 ## Estructura del proyecto
 
 ```bash
