@@ -71,15 +71,6 @@ $ git clone https://github.com/JosefinaCresta/api-server-flask.git
 $ cd api-server-flask
 ```
 
-> Iniciar la aplicación en Docker
-
-```bash
-$ docker-compose up --build
-```
-
-El servidor API comenzará a usar el puerto `5000`.
-<br />
-
 ## Estructura del proyecto
 
 ```bash
